@@ -1,0 +1,31 @@
+[
+ {
+  "table":"TRNSPACET",
+  "data":
+  [
+   {
+    "NAMESPACE":"/DMO/",
+    "ROLE":"C",
+    "REPLICENSE":"32869948212895959389",
+    "SSCRFLAG":"",
+    "SAPFLAG":"",
+    "GEN_ONLY":"",
+    "CHANGEUSER":"RAHUL",
+    "CHANGEDATE":"2024-10-28",
+    "MT_TYPE":""
+   }
+  ]
+ },
+ {
+  "table":"TRNSPACETT",
+  "data":
+  [
+   {
+    "NAMESPACE":"/DMO/",
+    "SPRAS":"E",
+    "DESCRIPTN":"SAP Demo Scenarios",
+    "OWNER":"SAP"
+   }
+  ]
+ }
+]
