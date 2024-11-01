@@ -18,6 +18,7 @@ CLASS zcl_flight_legacy DEFINITION
     "   I.e. when one of the levels contains an error, the complete call is refused.
     "   However, the buffer is not cleared in case of an error.
     "   I.e. when the caller wants to start over, he needs to call Initialize() explicitly.
+    "   Extra Code - Conflict Creation
 
     METHODS set_status_to_booked IMPORTING iv_travel_id TYPE ztravel_id
                                  EXPORTING et_messages  TYPE zif_flight_legacy=>tt_if_t100_message.
