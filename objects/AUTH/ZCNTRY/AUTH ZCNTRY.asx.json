@@ -1,0 +1,45 @@
+[
+ {
+  "table":"AUTHX",
+  "data":
+  [
+   {
+    "FIELDNAME":"ZCNTRY",
+    "ROLLNAME":"LAND1",
+    "CHECKTABLE":"",
+    "EXIT_FB":"",
+    "ACTVT_FLAG":""
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"AUTH",
+    "OBJ_NAME":"ZCNTRY",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"RAHUL",
+    "SRCDEP":"",
+    "DEVCLASS":"ZFLIGHT_REUSE",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-10-23",
+    "CHECK_DATE":"2024-10-23",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
